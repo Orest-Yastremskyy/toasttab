@@ -25,7 +25,7 @@ oasDefinitions:
   partners: https://api.redoc.ly/registry/bundle/toastintegrations/partners/v1/openapi.yaml
   restaurantAvailabilityService: https://api.redoc.ly/registry/bundle/toastintegrations/restaurantAvailabilityService/v1/openapi.yaml
   restaurants: https://api.redoc.ly/registry/bundle/toastintegrations/restaurants/v1/openapi.yaml
-  giftCards: https://api.redoc.ly/registry/bundle/toastintegrations/giftCards/v1/openapi.yaml
+  giftCards: https://api.redocly.com/registry/bundle/toastintegrations/giftCards/v1/openapi.yaml?branch=default
   stock: https://api.redoc.ly/registry/bundle/toastintegrations/stock/v1/openapi.yaml
   loyalty: https://api.redoc.ly/registry/bundle/toastintegrations/loyalty/v1/openapi.yaml
   # add links to definitions in our API registry by using a fully qualified URL.

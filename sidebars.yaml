@@ -13,7 +13,7 @@ api-reference:
   - page: restaurants.reference.page.yaml
   - page: stock.reference.page.yaml
   - separator: API specifications 
-  # - page: giftcards.reference.page.yaml
+  - page: giftcards.reference.page.yaml
   - page: loyalty.reference.page.yaml
 
   
