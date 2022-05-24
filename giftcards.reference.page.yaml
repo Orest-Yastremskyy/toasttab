@@ -1,0 +1,14 @@
+type: reference-docs
+definitionId: giftCards
+label: Gift cards integration specification
+settings:
+  generateCodeSamples:
+    languages:
+      - lang: curl
+      - lang: Java
+      - lang: Python
+  showConsole: false
+  hideHostname: true
+  hideDownloadButton: true
+  sortPropsAlphabetically: true
+  # downloadDefinitionUrl: https://doc.toasttab.com/api-specifications/toast-integrations-giftcard-api.yaml

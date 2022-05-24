@@ -1,0 +1,19 @@
+api-reference:
+  - page: index.md
+  - page: cashmanagement.reference.page.yaml
+  - page: configuration.reference.page.yaml
+  - page: creditcards.reference.page.yaml
+  - page: kitchen.reference.page.yaml
+  - page: labor.reference.page.yaml
+  - page: menus.reference.page.yaml
+  - page: ordermgmt.configuration.reference.page.yaml
+  - page: orders.reference.page.yaml
+  - page: partners.reference.page.yaml
+  - page: rx.availability.service.reference.page.yaml
+  - page: restaurants.reference.page.yaml
+  - page: stock.reference.page.yaml
+  - separator: API specifications 
+  - page: giftcards.reference.page.yaml
+  - page: loyalty.reference.page.yaml
+
+  
